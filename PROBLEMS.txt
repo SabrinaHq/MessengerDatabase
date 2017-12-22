@@ -1,0 +1,4 @@
+MINUS
+LAB 6(MULTIPLE CONDITION)
+cursor
+trigger
